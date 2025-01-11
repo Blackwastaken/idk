@@ -5,6 +5,3 @@ print("code name")
 ▄▄▄▌▐██▌█ 
 ███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
 ▀(⊙)▀▀▀▀▀▀▀(⊙)(⊙)▀▀▀▀▀▀▀▀▀▀(⊙)
-"They said there's traffic on the road"
-"Oh really"
-"Oh, shucks"
